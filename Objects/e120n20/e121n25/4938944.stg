@@ -5,7 +5,7 @@ OBJECT_SHARED Models/AirBase/klsv-big-hangar-b.xml 121.24467611 25.09091574 21.0
 OBJECT_SHARED Models/AirBase/klsv-big-hangar-helos-red.xml 121.24407634 25.09051927 21.0646 311.1 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-big-hangar-b.xml 121.24361777 25.09008339 21.4396 311.1 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-east-big-hangar.xml 121.24218884 25.08923198 21.8180 311.1 0.0 -0.0
-OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 121.24232266 25.08923307 18.2883 310.8 0.0 -0.0
+OBJECT_SHARED Models/Commercial/Brasilia-generic.xml 121.24232266 25.08923307 -1.8188 310.8 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-east-big-hangar.xml 121.23946749 25.08710031 23.0170 311.1 0.0 -0.0
 OBJECT_SHARED Models/Airport/BordeauxD1.ac 121.24123922 25.08820773 22.3130 311.1 0.0 -0.0
 
@@ -197,11 +197,11 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 121.23943428 25.08711705 23.
 OBJECT_SHARED Models/Airport/big_hangMelun.ac 121.22184860 25.07050684 26.5116 221.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/big_hangMelun.ac 121.22131612 25.07007671 26.4668 221.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/big_hangMelun.ac 121.22079029 25.06964387 27.1340 221.6 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 121.21858383 25.06762796 -77.1533 335.9 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 121.21883782 25.06815351 -77.1723 335.9 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 121.21945332 25.06522863 -433.2297 307.9 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 121.21992789 25.06555751 -433.2203 307.9 0.0 -0.0
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 121.21832266 25.06709562 -77.2743 335.9 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 121.21858383 25.06762796 -91.7279 335.9 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 121.21883782 25.06815351 -91.7279 335.9 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 121.21945332 25.06522863 -452.4330 307.9 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 121.21992789 25.06555751 -452.4330 307.9 0.0 -0.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 121.21832266 25.06709562 -91.7279 335.9 0.0 -0.0
 OBJECT_SHARED Models/Airport/big_hangMelun.ac 121.22036609 25.06600770 28.3980 37.6 0.0 -0.0
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 121.22095841 25.06628672 -458.1296 37.6 0.0 -0.0
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml 121.22142437 25.06661345 -458.0602 37.6 0.0 -0.0
@@ -294,4 +294,3 @@ OBJECT_SHARED Models/Aircraft/A340_services.xml 121.24582799 25.08486087 25.3494
 OBJECT_SHARED Models/Aircraft/A380_services.xml 121.24485884 25.08437596 25.6416 100.4 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/FedexDC10.ac 121.24670140 25.08536105 25.2609 100.4 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/MD90_services.xml 121.24988811 25.08677871 24.2045 100.4 0.0 -0.0
-
